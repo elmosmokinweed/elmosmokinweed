@@ -32,7 +32,7 @@
       
 
 [<img alt="aresmine" align="left" src="https://i.ibb.co/N3wwJp9/AresMine.png" width="553"/>](https://aresmine.vercel.app)
-<h3>AresMine<h3>
+<h3>ARESMINE<h3>
 <h6>Shop for a minecraft server. <br/>
 Custom responsive landing with interactive menu. <br/>
 Connected to shop API</h6>
@@ -50,8 +50,8 @@ Connected to shop API</h6>
 <br /><br /><br />
   
 [<img alt="NFT Template" align="right" src="https://i.ibb.co/PmnbvBM/nts.png" width="553"/>](https://next-typescript-scss-template.vercel.app/)
-<h3>SMUG PUGS MINT<h3>
-<h6>My custom template for React apps wwith Next.JS, TypeScript and SCSS,<br/>has some built-in features, hooks, breakpoint system etc.<br/><br/></h6>
+<h3>NTS TEMPLATE<h3>
+<h6>My custom template for React apps with Next.JS, TypeScript and SCSS,<br/>has some built-in features, hooks, breakpoint system etc.<br/><br/></h6>
   <h4>Tech list:</h4>
   
 ![SASS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
