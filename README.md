@@ -13,7 +13,7 @@
 <h1 align="left">Projects</h1>
 
 
-[<img alt="smug pugs mint" align="right" src="https://i.ibb.co/wCvxSYg/SmugPugs.png" width="553"/>](https://smug-pugs-mint.vercel.app)
+[<img alt="smug pugs mint" align="right" src="https://i.ibb.co/wCvxSYg/SmugPugs.png" width="553"/>](https://smugmint.thesmugpugs.com)
 <h3>SMUG PUGS MINT<h3>
 <h6>A website for SMUG PUGS NFT collection,<br/> website implements wallets, anchor, minting logic.<br/><br/></h6>
   <h4>Tech list:</h4>
@@ -46,7 +46,7 @@ Connected to shop API</h6>
   Links:
   
   [![Code](https://img.shields.io/badge/-source%20code-green?style=for-the-badge)](https://gitfront.io/r/elmosmokinweed/50c8ea7c1f1e77d951160ccf9e72ff38d8f4cf96/AresMine/)
-  [![Live](https://img.shields.io/badge/-live%20demo-blue?style=for-the-badge)](https://aresmine.vercel.app)
+  [![Live](https://img.shields.io/badge/-live%20demo-blue?style=for-the-badge)](https://aresmine.ru)
 <br /><br /><br />
   
 [<img alt="NFT Template" align="right" src="https://i.ibb.co/PmnbvBM/nts.png" width="553"/>](https://next-typescript-scss-template.vercel.app/)
