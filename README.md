@@ -25,13 +25,13 @@
   
   <h4>Links:</h4>
   
-  [![Live](https://img.shields.io/badge/-live%20demo-blue?style=for-the-badge)](https://smug-pugs-mint.vercel.app)
+  [![Live](https://img.shields.io/badge/-live%20demo-blue?style=for-the-badge)](https://smugmint.thesmugpugs.com)
   
   </div>
   
       
 
-[<img alt="aresmine" align="left" src="https://i.ibb.co/N3wwJp9/AresMine.png" width="553"/>](https://aresmine.vercel.app)
+[<img alt="aresmine" align="left" src="https://i.ibb.co/N3wwJp9/AresMine.png" width="553"/>](https://aresmine.ru)
 <h3>ARESMINE<h3>
 <h6>Shop for a minecraft server. <br/>
 Custom responsive landing with interactive menu. <br/>
