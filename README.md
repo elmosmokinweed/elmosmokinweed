@@ -1,8 +1,11 @@
 <p align="center"><img src="https://c.tenor.com/H549T-Zxtg0AAAAd/anime-aesthetic.gif" width="800"/></p>
 
 
+
+
 <h1 align="center">Hi there, my name&nbsp;is&nbsp;Sergey
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 <h3 align="center">I'm a front-end developer</h3>
 
 <span align="center">
@@ -98,6 +101,12 @@ Connected to shop API</h6>
 
 
 <br />
+  
+  <div align="center">
+  
+![](https://komarev.com/ghpvc/?username=elmosmokinweed)
+
+</div>
 
 
 [Gmail]: mailto:mrelmosmokinweed@gmail.com
