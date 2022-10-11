@@ -34,7 +34,7 @@
 
 [<img alt="Stiralka" align="left" src="https://i.ibb.co/y5GD4NZ/Group-12.webp" width="553"/>](https://xn--80aawje2afi.xn--p1acf/)
 <h3>STIRALKA<h3>
-<h6>Service for washing your home textiles from Moscow, that consis of 3 parts: CRM, courier mobile app and customer mobile app. CRM is built with Next.JS and Ant Design UI-kit, Mobile apps built using React Native. Everything is caried in monorepository with NX.</h6>
+<h6>Service for washing your home textiles from Moscow, that consis of 3 parts: CRM, courier mobile app and customer mobile app. CRM is built with Next.JS and Ant Design UI-kit, Mobile apps built using React Native. Everything is carried in monorepository with NX.</h6>
   <h4>Tech list:</h4>
   
 ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
