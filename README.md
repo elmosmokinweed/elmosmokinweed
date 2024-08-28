@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, my name&nbsp;is&nbsp;Sergey
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="middle">I'm 22 y.o. a Front-end developer from Saint-Petersburg</h3>
+<h3 align="middle">I'm 24 y.o. a Front-end developer from Saint-Petersburg</h3>
 
 <span align="center">
 
